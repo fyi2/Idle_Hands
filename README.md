@@ -8,7 +8,7 @@ The app does not impose any organizational structure on the volunteers, instead 
 - Sign in using Twitter (Mandatory)
 - Join/Initiate a disaster
 - Monitor the disaster's twitter hash tags
-- See other voluterr statuses
+- See other Volunteer statuses
 - Monitor an incident
 - Messaging at the individual/team/disaster level
 - Report Crime
