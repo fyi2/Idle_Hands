@@ -4,7 +4,8 @@
 
 ## List of features to implement
 
-Level | Priorit1 | 3 | Feature | Status | Notes
+Level | Priority | Feature | Status | Notes
+--- | --- | --- | --- | ---
 0 | 1 | Login via twitter | Not Started |
 0 | 3 | Logout | Not Started |
 0 | 1 | View Twitter Feed | Not Started |
