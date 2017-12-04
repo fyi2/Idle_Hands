@@ -23,4 +23,4 @@ The app does not impose any organizational structure on the volunteers, instead 
 - On Site Resource
 - Volunteer
 
-
+[RACI Table for the Roles](./app/Documentation/RACI.Md)
