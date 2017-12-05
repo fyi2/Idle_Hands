@@ -1,11 +1,10 @@
-![not started....](./awkward.jpg)
-
 # Features
 
 ## List of features to implement
 
 Level | Priority | Feature | Status | Notes
 --- | --- | --- | --- | ---
+0 | 0 | Click through model | Not Started |
 0 | 1 | Login via twitter | Not Started |
 0 | 3 | Logout | Not Started |
 0 | 1 | View Twitter Feed | Not Started |

@@ -1,5 +1,7 @@
 # Main Page
 
-[Technical Specs](./technical_specs.md)
-[Feature Status](./feature_status.md)
-[Screen Status](./screen_status.md)
+## Documents
+- [Data Structure](./data_structures.md)
+- [Technical Specs](./technical_specs.md)
+- [Feature Status](./feature_status.md)
+- [Screen Status](./screen_status.md)
