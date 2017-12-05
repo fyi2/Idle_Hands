@@ -1,5 +1,7 @@
 # Idle_Hands
 
+[Full Documentation](./app/Documentation/Master_Document.md)
+
 **Peer based android app** to be used during crisis. The concept is that it is fast and light and enables an organic hierarchy of volunteers to work together.
 
 The app does not impose any organizational structure on the volunteers, instead it allows them to organize around the disaster and the incidents within that disaster.
