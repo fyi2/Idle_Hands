@@ -22,3 +22,6 @@ Remove Incident Manager | General Manager
 - Anyone can create an incident as they see fit. By default they become the incident manager, unless they designate someone else.
 - Initiators and General Managers are by default super users
 - Merging is giving. You can give your incident/disaster away but you can't take someone's incident/disaster
+
+
+[Home](./Master_Document.md)
