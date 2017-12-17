@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+      Your Twitter Key and Secret, see README.
+    -->
+    <!-- TODO(developer): REPLACE -->
+    <string name="twitter_consumer_key">Nbr7vEfcFX7ugH1Nx1itfUHWT</string>
+    <string name="twitter_consumer_secret">jwIAUI3kgqC87oekwsK5yzDxL6OPK2DY5GDDQeYoognMT2YiV6</string>
+</resources>

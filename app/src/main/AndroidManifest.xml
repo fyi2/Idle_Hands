@@ -8,14 +8,31 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:name=".Models.DisasterTracker"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity
+            android:name=".Activities.MainActivity"
+            >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Activities.DisasterActivity"
+             />
+        <activity
+            android:name=".Activities.LoggedInDisasterActivity"
+             />
+        <activity
+            android:name=".Activities.CreateDisasterActivity"
+            />
+        <activity
+            android:name=".Activities.DisasterOverviewActivity"
+             />
+        <activity android:name=".Activities.DisasterMapActivity" />
+        <activity android:name=".Activities.TwitterFBLoginActivity"></activity>
     </application>
 
 </manifest>
